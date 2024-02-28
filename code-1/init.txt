@@ -1,7 +1,5 @@
-<b><span color='blue'>All the best !!</span></b>
-problem A : <span color='red'>Not Accepted</span> 
-problem B : <span color='red'>Not Accepted</span> 
-problem C : <span color='red'>Not Accepted</span> 
+<b><span color='blue'>Accepted problems : </span></b>
+
 
 
 

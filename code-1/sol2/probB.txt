@@ -1,0 +1,22 @@
+<b>Problem:</b> <span foreground='blue'>Maximize the Sum</span>
+
+<b>Description:</b>
+You are given an array of integers, represented by n elements. Your task is to maximize the sum of these integers by changing the sign 
+of at most two numbers. Each integer in the array can be either positive or negative.
+
+<b>Input:</b>
+The input consists of two lines:
+1. The first line contains a single integer n (10^-5 ≤ n ≤ 10^5), representing the number of elements in the array.
+2. The second line contains n integers separated by space, representing the elements of the array. Each integer is between -10^9 and 10^9.
+
+<b>Output:</b>
+Output a single integer, the maximum possible sum of the array after changing the sign of at most two numbers.
+
+<b>Sample Input:</b>
+5
+-2 7 -3 1 -8
+
+
+<b>Sample Output:</b>
+21
+
