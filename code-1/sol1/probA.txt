@@ -1,0 +1,17 @@
+<b>Problem:</b> <span foreground='blue'>Carl's Addition Adventure</span>
+
+<b>Description:</b>
+Given two positive integers <b>x</b> and <b>y</b> (10^-9 ≤ x, y ≤ 10^9), Carl wants to find the sum of these two numbers.
+
+<b>Input:</b>
+The input consists of two lines, each containing a single integer, <b>x</b> and <b>y</b>.
+
+<b>Output:</b>
+Output a single integer, the sum of <b>x</b> and <b>y</b>.
+
+<b>Sample Input:</b>
+12345
+67890
+
+<b>Sample Output:</b>
+80235
