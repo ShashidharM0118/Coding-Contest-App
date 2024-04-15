@@ -1,0 +1,16 @@
+<b>Problem:</b> <span foreground='blue'>Find the Greatest Divisor</span>
+
+<b>Description:</b>
+Given a positive integer <b>n</b> (2 ≤ n ≤ 10^9), find the greatest divisor of the number.
+
+<b>Input:</b>
+The input consists of a single line containing a positive integer <b>n</b>.
+
+<b>Output:</b>
+Output a single integer, the greatest divisor of <b>n</b>.
+
+<b>Sample Input:</b>
+36
+<b>Sample Output:</b>
+12
+
