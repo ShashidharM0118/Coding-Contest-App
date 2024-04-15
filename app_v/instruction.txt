@@ -1,0 +1,7 @@
+
+                                                                    <b><span color='blue'>Instructions:</span></b>
+
+        Paste your code into the provided space given in every problem.
+        Problem will be <span color='green'>Accepted</span> only when all testcases are passed
+
+                                                                                                  
